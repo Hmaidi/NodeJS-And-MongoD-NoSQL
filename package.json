@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-and-mongod-nosql",
+  "version": "1.0.0",
+  "description": "Nodejs with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofien hmaidi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "expressjs": "^1.0.1",
+    "mongodb": "^3.1.0-beta4"
+  }
+}
